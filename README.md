@@ -100,6 +100,10 @@ flutter run
 flutter test
 ```
 
+Resultado de la ejecución en Visual Studio Code (10 de 10 pruebas aprobadas):
+
+![Resultado de las pruebas](capturas/07_flutter_test.png)
+
 Las pruebas están en `test/widget_test.dart` y cubren:
 
 | Caso | Peso (kg) | Estatura (cm) | IMC esperado | Categoría |
