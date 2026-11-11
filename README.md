@@ -2,7 +2,7 @@
 
 Aplicación móvil hecha en Flutter que calcula el Índice de Masa Corporal (IMC) de una persona adulta, lo clasifica y muestra una recomendación breve.
 
-**Autor:** Oscar Manuel Ayala Ortiz
+**Autor:** Jonathan Venancio Aguilar Hernandez
 
 ## 1. Descripción breve
 
